@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "ea8b7c7e-0e23-8a9d-defc-aa051439fce6",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Spider",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

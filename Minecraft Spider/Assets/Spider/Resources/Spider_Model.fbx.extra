@@ -1,0 +1,37 @@
+[
+  {
+    "guid": {
+      "a": "89b5b66e-b1ce-23e3-9fc6-ed7eb4022466",
+      "b": ""
+    },
+    "extraType": "ResItemFbxAsset",
+    "name": "Spider_Model",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Model",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7291053909320220674",
+    "importAnimation": true,
+    "importVertexColor": false,
+    "importBlendshape": true,
+    "importNormalTangentBinormal": true,
+    "regenerateNormalTangentBinormal": true,
+    "materialsGUIDs": [],
+    "meshGUIDs": [
+      "b149a6af-131a-4c6d-e151-3a993ddf2533",
+      "e812cd09-9346-b2d1-f132-d5944d30cac3",
+      "7d2b547e-5e94-9eae-bad8-772deee83cce",
+      "a6991049-4066-aa51-d7bc-fa3f4ab8449e",
+      "c3779036-4b46-8d13-56ac-3320df9c29f0",
+      "f9f82e32-f1a3-85de-c8aa-6b453b422cf2",
+      "2760fa59-8eb5-2e16-329b-478be904570d",
+      "115cac09-2daa-b077-7c0f-43b492dd6c4f",
+      "54318a1c-2579-27af-7538-b174e699f866",
+      "7d059edc-55e0-086b-deab-1a6258f64da5",
+      "26c56758-7f2a-a579-9bd6-d387de8051a3"
+    ],
+    "animazGUIDs": []
+  }
+]

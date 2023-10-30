@@ -1,0 +1,52 @@
+[
+  {
+    "guid": {
+      "a": "6748bf56-b937-a77b-5ca4-69989febc619",
+      "b": ""
+    },
+    "extraType": "ResItemMaterialOmtl",
+    "name": "Spider_Mat",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Material",
+    "version": "0.3.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "assetPackageID": "7291053909320220674",
+    "skinObjGuid": "Guid(5415069755454767356, 11964311088029217948)",
+    "references": [
+      {
+        "propertyName": "_AlbedoTexture",
+        "guid": "c8b09467-23b8-8a4d-ed99-a17623a35a28"
+      },
+      {
+        "propertyName": "_OpacityTexture",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "_NormalTexture",
+        "guid": "00000000-0000-0000-0000-00000000001f"
+      },
+      {
+        "propertyName": "_MRAOTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_EmissiveTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RimHighlightTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_ThinFilmTexture",
+        "guid": "00000000-0000-0000-0000-00000000001c"
+      },
+      {
+        "propertyName": "_RadianceTexture",
+        "guid": "00000000-0000-0000-0000-000000000800"
+      }
+    ]
+  }
+]
